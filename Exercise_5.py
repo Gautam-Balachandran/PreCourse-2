@@ -3,7 +3,7 @@
 # This function is same in both iterative and recursive
 
 # Time Complexity : O(nlogn)
-# Space Complexity : O(n)
+# Space Complexity : O(logn)
 # Did this code successfully run on Leetcode : Yes
 # Any problem you faced while coding this : No
 
